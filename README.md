@@ -37,9 +37,8 @@ The application provides the following functionality:
 3. Data Preprocessing: Preprocess the data by handling missing values, scaling features, and encoding categorical variables.
 4. Model Training: Train different classification models, such as Gradient Boosting Classifier (GBC), Random Forest Classifier (RFC), and Support Vector Classifier (SVC), to predict breast cancer.
 5. Model Evaluation: Evaluate the trained models using performance metrics, including accuracy, precision, recall, specificity, and ROC-AUC score.
-6. Hyperparameter Tuning: Optimize the models' hyperparameters using techniques like grid search or randomized search to improve their performance.
-7. Result Analysis: Analyze the results and select the best-performing model based on the evaluation metrics.
-8. Prediction: Use the selected model to make predictions on new, unseen data.
+6. Result Analysis: Analyze the results and select the best-performing model based on the evaluation metrics.
+7. Prediction: Use the selected model to make predictions on new, unseen data.
 
 ## Conclusion
 The Breast Cancer Prediction application aims to analyze and predict whether a patient has breast cancer based on cell nuclei features. By utilizing ensemble techniques and machine learning algorithms, the application provides accurate predictions and insights into the dataset. The performance metrics help evaluate the effectiveness of different models and select the best one for breast cancer prediction. The application can be further enhanced by incorporating additional features, optimizing the models, and integrating it into a user-friendly interface for easy accessibility.
